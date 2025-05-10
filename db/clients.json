@@ -1,0 +1,1282 @@
+[
+  {
+    "client_id": 1,
+    "first_name": "Juan",
+    "last_name": "Perez",
+    "phone": "987654321",
+    "email": "juanperez@email.com",
+    "registration_date": "2023-03-15",
+    "dni": "12345678",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 2,
+    "first_name": "Maria",
+    "last_name": "Garcia",
+    "phone": "912345678",
+    "email": "mariagarcia@email.com",
+    "registration_date": "2022-06-18",
+    "dni": "23456789",
+    "status": "Vigente",
+    "company": {
+      "ruc": "12345678901",
+      "business_name": "Tech Solutions S.A.",
+      "trade_name": "Tech Sol",
+      "address": "Av. Siempre Viva 123"
+    }
+  },
+  {
+    "client_id": 3,
+    "first_name": "Carlos",
+    "last_name": "Mendez",
+    "phone": "934567890",
+    "email": "carlosmendez@email.com",
+    "registration_date": "2021-05-10",
+    "dni": "34567890",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 4,
+    "first_name": "Ana",
+    "last_name": "Lopez",
+    "phone": "961234567",
+    "email": "analop@email.com",
+    "registration_date": "2023-02-25",
+    "dni": "45678901",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 5,
+    "first_name": "Luis",
+    "last_name": "Torres",
+    "phone": "965432109",
+    "email": "luistorres@email.com",
+    "registration_date": "2021-11-11",
+    "dni": "56789012",
+    "status": "Inactivo",
+    "company": null
+  },
+  {
+    "client_id": 6,
+    "first_name": "Sofia",
+    "last_name": "Martinez",
+    "phone": "987654321",
+    "email": "sofia@email.com",
+    "registration_date": "2023-05-15",
+    "dni": "67890123",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 7,
+    "first_name": "Pedro",
+    "last_name": "Ramirez",
+    "phone": "961234567",
+    "email": "pedroram@email.com",
+    "registration_date": "2022-02-20",
+    "dni": "78901234",
+    "status": "Deudor",
+    "company": {
+      "ruc": "23456789012",
+      "business_name": "Rami Corp.",
+      "trade_name": "Rami Tech",
+      "address": "Calle Falsa 456"
+    }
+  },
+  {
+    "client_id": 8,
+    "first_name": "Josefa",
+    "last_name": "Alvarez",
+    "phone": "983746512",
+    "email": "josefa@email.com",
+    "registration_date": "2024-07-11",
+    "dni": "89012345",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 9,
+    "first_name": "Felipe",
+    "last_name": "Vargas",
+    "phone": "988345672",
+    "email": "felipe@email.com",
+    "registration_date": "2024-09-05",
+    "dni": "90123456",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 10,
+    "first_name": "Patricia",
+    "last_name": "Ruiz",
+    "phone": "987654321",
+    "email": "patricia@email.com",
+    "registration_date": "2024-01-01",
+    "dni": "12345678",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 11,
+    "first_name": "Miguel",
+    "last_name": "Hernandez",
+    "phone": "912345678",
+    "email": "miguel@email.com",
+    "registration_date": "2023-07-10",
+    "dni": "23456789",
+    "status": "Vigente",
+    "company": {
+      "ruc": "34567890123",
+      "business_name": "Hernandez Global S.A.",
+      "trade_name": "Hernandez Group",
+      "address": "Calle Av. Central 102"
+    }
+  },
+  {
+    "client_id": 12,
+    "first_name": "Elena",
+    "last_name": "Gomez",
+    "phone": "933456789",
+    "email": "elena@email.com",
+    "registration_date": "2022-03-19",
+    "dni": "34567890",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 13,
+    "first_name": "Daniel",
+    "last_name": "Diaz",
+    "phone": "987654321",
+    "email": "daniel@email.com",
+    "registration_date": "2021-09-23",
+    "dni": "45678901",
+    "status": "Inactivo",
+    "company": {
+      "ruc": "45678901234",
+      "business_name": "Diaz Enterprises S.A.",
+      "trade_name": "Diaz Tech",
+      "address": "Jr. Los Cedros 58"
+    }
+  },
+  {
+    "client_id": 14,
+    "first_name": "Lucia",
+    "last_name": "Perez",
+    "phone": "965432109",
+    "email": "lucia@email.com",
+    "registration_date": "2023-04-13",
+    "dni": "56789012",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 15,
+    "first_name": "Oscar",
+    "last_name": "Ramirez",
+    "phone": "945678901",
+    "email": "oscar@email.com",
+    "registration_date": "2022-11-07",
+    "dni": "67890123",
+    "status": "Deudor",
+    "company": {
+      "ruc": "56789012345",
+      "business_name": "Oscar Solutions",
+      "trade_name": "Oscar Tech",
+      "address": "Av. Los Pinos 999"
+    }
+  },
+  {
+    "client_id": 16,
+    "first_name": "Claudia",
+    "last_name": "Gonzalez",
+    "phone": "988745632",
+    "email": "claudia@email.com",
+    "registration_date": "2022-05-10",
+    "dni": "78901234",
+    "status": "Inactivo",
+    "company": null
+  },
+  {
+    "client_id": 17,
+    "first_name": "Rosa",
+    "last_name": "Fernandez",
+    "phone": "975643210",
+    "email": "rosa@email.com",
+    "registration_date": "2023-08-17",
+    "dni": "89012345",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 18,
+    "first_name": "Javier",
+    "last_name": "Lopez",
+    "phone": "963257489",
+    "email": "javier@email.com",
+    "registration_date": "2022-01-04",
+    "dni": "90123456",
+    "status": "Vigente",
+    "company": {
+      "ruc": "67890123456",
+      "business_name": "Lopez Logistics S.A.",
+      "trade_name": "Lopez Express",
+      "address": "Jr. Primavera 223"
+    }
+  },
+  {
+    "client_id": 19,
+    "first_name": "Antonio",
+    "last_name": "Jimenez",
+    "phone": "950123456",
+    "email": "antonio@email.com",
+    "registration_date": "2023-05-22",
+    "dni": "01234567",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 20,
+    "first_name": "Veronica",
+    "last_name": "Martinez",
+    "phone": "980654321",
+    "email": "veronica@email.com",
+    "registration_date": "2021-07-29",
+    "dni": "12345678",
+    "status": "Vigente",
+    "company": {
+      "ruc": "78901234567",
+      "business_name": "Martinez & Co.",
+      "trade_name": "Martinez Solutions",
+      "address": "Av. Libertad 456"
+    }
+  },
+  {
+    "client_id": 21,
+    "first_name": "Eduardo",
+    "last_name": "Ruiz",
+    "phone": "952345678",
+    "email": "eduardo@email.com",
+    "registration_date": "2022-03-03",
+    "dni": "23456789",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 22,
+    "first_name": "Carla",
+    "last_name": "Sanchez",
+    "phone": "924567890",
+    "email": "carla@email.com",
+    "registration_date": "2023-01-15",
+    "dni": "34567890",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 23,
+    "first_name": "Federico",
+    "last_name": "Perez",
+    "phone": "933456789",
+    "email": "federico@email.com",
+    "registration_date": "2021-11-18",
+    "dni": "45678901",
+    "status": "Vigente",
+    "company": {
+      "ruc": "12345678901",
+      "business_name": "Perez Business Group",
+      "trade_name": "Perez Corp.",
+      "address": "Calle San Juan 789"
+    }
+  },
+  {
+    "client_id": 24,
+    "first_name": "Patricia",
+    "last_name": "Torres",
+    "phone": "963258741",
+    "email": "patricia@email.com",
+    "registration_date": "2022-09-04",
+    "dni": "56789012",
+    "status": "Inactivo",
+    "company": null
+  },
+  {
+    "client_id": 25,
+    "first_name": "Ricardo",
+    "last_name": "Gonzalez",
+    "phone": "945672345",
+    "email": "ricardo@email.com",
+    "registration_date": "2022-06-10",
+    "dni": "67890123",
+    "status": "Deudor",
+    "company": {
+      "ruc": "23456789012",
+      "business_name": "Gonzalez Tech",
+      "trade_name": "Gonzalez Innovations",
+      "address": "Av. Los Rosales 112"
+    }
+  },
+  {
+    "client_id": 26,
+    "first_name": "Marta",
+    "last_name": "Diaz",
+    "phone": "950987654",
+    "email": "marta@email.com",
+    "registration_date": "2022-12-05",
+    "dni": "78901234",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 27,
+    "first_name": "Victor",
+    "last_name": "Alvarez",
+    "phone": "924567890",
+    "email": "victor@email.com",
+    "registration_date": "2023-08-01",
+    "dni": "89012345",
+    "status": "Deudor",
+    "company": {
+      "ruc": "34567890123",
+      "business_name": "Alvarez Solutions",
+      "trade_name": "Alvarez Enterprises",
+      "address": "Calle El Sol 232"
+    }
+  },
+  {
+    "client_id": 28,
+    "first_name": "Raquel",
+    "last_name": "Martinez",
+    "phone": "987654321",
+    "email": "raquel@email.com",
+    "registration_date": "2023-06-15",
+    "dni": "90123456",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 29,
+    "first_name": "Emilio",
+    "last_name": "Lopez",
+    "phone": "963258741",
+    "email": "emilio@email.com",
+    "registration_date": "2021-04-22",
+    "dni": "23456789",
+    "status": "Inactivo",
+    "company": null
+  },
+  {
+    "client_id": 30,
+    "first_name": "Lucia",
+    "last_name": "Hernandez",
+    "phone": "950987654",
+    "email": "lucia@email.com",
+    "registration_date": "2024-01-10",
+    "dni": "34567890",
+    "status": "Vigente",
+    "company": {
+      "ruc": "45678901234",
+      "business_name": "Hernandez Corp.",
+      "trade_name": "Hernandez Industries",
+      "address": "Jr. La Paz 456"
+    }
+  },
+  {
+    "client_id": 31,
+    "first_name": "Felix",
+    "last_name": "Jimenez",
+    "phone": "924567890",
+    "email": "felix@email.com",
+    "registration_date": "2023-07-01",
+    "dni": "45678901",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 32,
+    "first_name": "Sofia",
+    "last_name": "Garcia",
+    "phone": "933456789",
+    "email": "sofia@email.com",
+    "registration_date": "2022-02-15",
+    "dni": "56789012",
+    "status": "Inactivo",
+    "company": null
+  },
+  {
+    "client_id": 33,
+    "first_name": "Gabriel",
+    "last_name": "Vega",
+    "phone": "965432109",
+    "email": "gabriel@email.com",
+    "registration_date": "2023-11-11",
+    "dni": "67890123",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 34,
+    "first_name": "Patricia",
+    "last_name": "Vargas",
+    "phone": "945678901",
+    "email": "patricia@email.com",
+    "registration_date": "2024-02-10",
+    "dni": "78901234",
+    "status": "Vigente",
+    "company": {
+      "ruc": "56789012345",
+      "business_name": "Vargas Enterprises",
+      "trade_name": "Vargas Solutions",
+      "address": "Av. Los Ángeles 121"
+    }
+  },
+  {
+    "client_id": 35,
+    "first_name": "Claudia",
+    "last_name": "Fernandez",
+    "phone": "924567890",
+    "email": "claudia@email.com",
+    "registration_date": "2023-04-17",
+    "dni": "89012345",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 36,
+    "first_name": "Samuel",
+    "last_name": "Gonzalez",
+    "phone": "920654321",
+    "email": "samuel@email.com",
+    "registration_date": "2023-01-18",
+    "dni": "90123456",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 37,
+    "first_name": "Ricardo",
+    "last_name": "Ruiz",
+    "phone": "933256789",
+    "email": "ricardo@email.com",
+    "registration_date": "2023-07-22",
+    "dni": "12345678",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 38,
+    "first_name": "Marta",
+    "last_name": "Lopez",
+    "phone": "931234567",
+    "email": "marta@email.com",
+    "registration_date": "2022-06-11",
+    "dni": "23456789",
+    "status": "Deudor",
+    "company": {
+      "ruc": "67890123456",
+      "business_name": "Lopez Enterprises",
+      "trade_name": "Lopez Group",
+      "address": "Jr. Los Andes 245"
+    }
+  },
+  {
+    "client_id": 39,
+    "first_name": "Carlos",
+    "last_name": "Lopez",
+    "phone": "963257489",
+    "email": "carlos@email.com",
+    "registration_date": "2023-03-15",
+    "dni": "34567890",
+    "status": "Inactivo",
+    "company": null
+  },
+  {
+    "client_id": 40,
+    "first_name": "Gabriela",
+    "last_name": "Sanchez",
+    "phone": "975643210",
+    "email": "gabriela@email.com",
+    "registration_date": "2022-12-05",
+    "dni": "45678901",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 41,
+    "first_name": "Andrea",
+    "last_name": "Morales",
+    "phone": "963258741",
+    "email": "andrea@email.com",
+    "registration_date": "2024-02-08",
+    "dni": "56789012",
+    "status": "Deudor",
+    "company": {
+      "ruc": "12345678901",
+      "business_name": "Morales Consulting",
+      "trade_name": "Morales Group",
+      "address": "Av. Santa Fe 789"
+    }
+  },
+  {
+    "client_id": 42,
+    "first_name": "Juliana",
+    "last_name": "Castro",
+    "phone": "987654321",
+    "email": "juliana@email.com",
+    "registration_date": "2023-08-21",
+    "dni": "67890123",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 43,
+    "first_name": "Julian",
+    "last_name": "Martinez",
+    "phone": "924567890",
+    "email": "julian@email.com",
+    "registration_date": "2023-03-30",
+    "dni": "78901234",
+    "status": "Inactivo",
+    "company": {
+      "ruc": "23456789012",
+      "business_name": "Martinez Tech",
+      "trade_name": "Martinez Solutions",
+      "address": "Calle Del Sol 333"
+    }
+  },
+  {
+    "client_id": 44,
+    "first_name": "Raul",
+    "last_name": "Rodriguez",
+    "phone": "938745621",
+    "email": "raul@email.com",
+    "registration_date": "2023-10-10",
+    "dni": "89012345",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 45,
+    "first_name": "Sara",
+    "last_name": "Gonzalez",
+    "phone": "920654321",
+    "email": "sara@email.com",
+    "registration_date": "2021-07-14",
+    "dni": "90123456",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 46,
+    "first_name": "Marta",
+    "last_name": "Lopez",
+    "phone": "945678901",
+    "email": "marta@email.com",
+    "registration_date": "2022-11-29",
+    "dni": "23456789",
+    "status": "Vigente",
+    "company": {
+      "ruc": "34567890123",
+      "business_name": "Lopez Group S.A.",
+      "trade_name": "Lopez Enterprises",
+      "address": "Jr. El Parque 23"
+    }
+  },
+  {
+    "client_id": 47,
+    "first_name": "Lucia",
+    "last_name": "Vargas",
+    "phone": "933567890",
+    "email": "lucia@email.com",
+    "registration_date": "2023-03-25",
+    "dni": "34567890",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 48,
+    "first_name": "Carlos",
+    "last_name": "Torres",
+    "phone": "967854321",
+    "email": "carlos@email.com",
+    "registration_date": "2021-10-20",
+    "dni": "12345678",
+    "status": "Inactivo",
+    "company": {
+      "ruc": "45678901234",
+      "business_name": "Torres Industries",
+      "trade_name": "Torres Tech",
+      "address": "Av. El Sol 456"
+    }
+  },
+  {
+    "client_id": 49,
+    "first_name": "Patricia",
+    "last_name": "Sanchez",
+    "phone": "931234567",
+    "email": "patricia@email.com",
+    "registration_date": "2022-06-11",
+    "dni": "67890123",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 50,
+    "first_name": "Victor",
+    "last_name": "Alvarez",
+    "phone": "987654321",
+    "email": "victor@email.com",
+    "registration_date": "2023-07-22",
+    "dni": "78901234",
+    "status": "Deudor",
+    "company": {
+      "ruc": "56789012345",
+      "business_name": "Alvarez Tech",
+      "trade_name": "Alvarez Solutions",
+      "address": "Calle Principal 555"
+    }
+  },
+  {
+    "client_id": 51,
+    "first_name": "Nicolas",
+    "last_name": "Fernandez",
+    "phone": "923456789",
+    "email": "nicolas@email.com",
+    "registration_date": "2023-09-15",
+    "dni": "89012345",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 52,
+    "first_name": "Eva",
+    "last_name": "Castillo",
+    "phone": "938745621",
+    "email": "eva@email.com",
+    "registration_date": "2021-05-30",
+    "dni": "90123456",
+    "status": "Inactivo",
+    "company": null
+  },
+  {
+    "client_id": 53,
+    "first_name": "Marcos",
+    "last_name": "Gonzalez",
+    "phone": "965432109",
+    "email": "marcos@email.com",
+    "registration_date": "2023-02-18",
+    "dni": "12345678",
+    "status": "Vigente",
+    "company": {
+      "ruc": "67890123456",
+      "business_name": "Gonzalez Ltda.",
+      "trade_name": "Gonzalez Tech",
+      "address": "Jr. El Sol 222"
+    }
+  },
+  {
+    "client_id": 54,
+    "first_name": "Alicia",
+    "last_name": "Ruiz",
+    "phone": "923456789",
+    "email": "alicia@email.com",
+    "registration_date": "2023-05-22",
+    "dni": "23456789",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 55,
+    "first_name": "Raul",
+    "last_name": "Jimenez",
+    "phone": "965432109",
+    "email": "raul@email.com",
+    "registration_date": "2022-09-05",
+    "dni": "67890123",
+    "status": "Inactivo",
+    "company": {
+      "ruc": "78901234567",
+      "business_name": "Jimenez Construction",
+      "trade_name": "Jimenez Group",
+      "address": "Calle Las Avenidas 666"
+    }
+  },
+  {
+    "client_id": 56,
+    "first_name": "Oscar",
+    "last_name": "Vega",
+    "phone": "933567890",
+    "email": "oscar@email.com",
+    "registration_date": "2022-01-13",
+    "dni": "78901234",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 57,
+    "first_name": "Natalia",
+    "last_name": "Martinez",
+    "phone": "930654321",
+    "email": "natalia@email.com",
+    "registration_date": "2024-01-01",
+    "dni": "89012345",
+    "status": "Vigente",
+    "company": {
+      "ruc": "12345678901",
+      "business_name": "Martinez S.A.",
+      "trade_name": "Martinez Enterprises",
+      "address": "Av. El Libertador 777"
+    }
+  },
+  {
+    "client_id": 58,
+    "first_name": "Jorge",
+    "last_name": "Sanchez",
+    "phone": "926345678",
+    "email": "jorge@email.com",
+    "registration_date": "2023-10-18",
+    "dni": "90123456",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 59,
+    "first_name": "Carolina",
+    "last_name": "Paredes",
+    "phone": "967543210",
+    "email": "carolina@email.com",
+    "registration_date": "2022-07-11",
+    "dni": "23456789",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 60,
+    "first_name": "Ramiro",
+    "last_name": "Diaz",
+    "phone": "924567890",
+    "email": "ramiro@email.com",
+    "registration_date": "2023-06-30",
+    "dni": "34567890",
+    "status": "Deudor",
+    "company": {
+      "ruc": "34567890123",
+      "business_name": "Diaz Ltda.",
+      "trade_name": "Diaz Innovations",
+      "address": "Jr. Las Palmas 101"
+    }
+  },
+  {
+    "client_id": 61,
+    "first_name": "Beatriz",
+    "last_name": "Guzmán",
+    "phone": "965432109",
+    "email": "beatriz@email.com",
+    "registration_date": "2023-05-02",
+    "dni": "67890123",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 62,
+    "first_name": "David",
+    "last_name": "Ramirez",
+    "phone": "926345678",
+    "email": "david@email.com",
+    "registration_date": "2023-09-13",
+    "dni": "78901234",
+    "status": "Deudor",
+    "company": {
+      "ruc": "56789012345",
+      "business_name": "Ramirez Import S.A.",
+      "trade_name": "Ramirez Trading",
+      "address": "Calle Los Castaños 555"
+    }
+  },
+  {
+    "client_id": 63,
+    "first_name": "Juan",
+    "last_name": "Lopez",
+    "phone": "931234567",
+    "email": "juan@email.com",
+    "registration_date": "2022-08-23",
+    "dni": "89012345",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 64,
+    "first_name": "Maria",
+    "last_name": "Torres",
+    "phone": "960456123",
+    "email": "maria@email.com",
+    "registration_date": "2021-12-17",
+    "dni": "23456789",
+    "status": "Inactivo",
+    "company": null
+  },
+  {
+    "client_id": 65,
+    "first_name": "Miguel",
+    "last_name": "Sosa",
+    "phone": "920654321",
+    "email": "miguel@email.com",
+    "registration_date": "2023-03-12",
+    "dni": "67890123",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 66,
+    "first_name": "Alicia",
+    "last_name": "Fernandez",
+    "phone": "945678901",
+    "email": "alicia@email.com",
+    "registration_date": "2022-11-19",
+    "dni": "78901234",
+    "status": "Deudor",
+    "company": {
+      "ruc": "23456789012",
+      "business_name": "Fernandez Group",
+      "trade_name": "Fernandez Enterprises",
+      "address": "Av. Las Torres 111"
+    }
+  },
+  {
+    "client_id": 67,
+    "first_name": "Martín",
+    "last_name": "Vega",
+    "phone": "973245678",
+    "email": "martin@email.com",
+    "registration_date": "2023-05-18",
+    "dni": "89012345",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 68,
+    "first_name": "Carolina",
+    "last_name": "Mendoza",
+    "phone": "960123456",
+    "email": "carolina@email.com",
+    "registration_date": "2023-06-14",
+    "dni": "12345678",
+    "status": "Deudor",
+    "company": {
+      "ruc": "12345678901",
+      "business_name": "Mendoza Consulting",
+      "trade_name": "Mendoza Solutions",
+      "address": "Calle Las Flores 22"
+    }
+  },
+  {
+    "client_id": 69,
+    "first_name": "Juan",
+    "last_name": "Rodriguez",
+    "phone": "933567890",
+    "email": "juan@email.com",
+    "registration_date": "2022-03-10",
+    "dni": "23456789",
+    "status": "Inactivo",
+    "company": null
+  },
+  {
+    "client_id": 70,
+    "first_name": "Susana",
+    "last_name": "Rojas",
+    "phone": "987654321",
+    "email": "susana@email.com",
+    "registration_date": "2021-06-05",
+    "dni": "34567890",
+    "status": "Vigente",
+    "company": {
+      "ruc": "23456789012",
+      "business_name": "Rojas S.A.",
+      "trade_name": "Rojas Group",
+      "address": "Calle Las Avenidas 999"
+    }
+  },
+  {
+    "client_id": 71,
+    "first_name": "Pablo",
+    "last_name": "Martínez",
+    "phone": "924567890",
+    "email": "pablo@email.com",
+    "registration_date": "2022-07-17",
+    "dni": "45678901",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 72,
+    "first_name": "Diana",
+    "last_name": "Pérez",
+    "phone": "962345678",
+    "email": "diana@email.com",
+    "registration_date": "2023-04-15",
+    "dni": "67890123",
+    "status": "Vigente",
+    "company": {
+      "ruc": "34567890123",
+      "business_name": "Pérez & Co.",
+      "trade_name": "Pérez Solutions",
+      "address": "Calle Los Andenes 550"
+    }
+  },
+  {
+    "client_id": 73,
+    "first_name": "Raquel",
+    "last_name": "Mora",
+    "phone": "923678901",
+    "email": "raquel@email.com",
+    "registration_date": "2022-10-06",
+    "dni": "78901234",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 74,
+    "first_name": "Luis",
+    "last_name": "Ramírez",
+    "phone": "931234567",
+    "email": "luis@email.com",
+    "registration_date": "2023-07-05",
+    "dni": "89012345",
+    "status": "Vigente",
+    "company": {
+      "ruc": "56789012345",
+      "business_name": "Ramírez Enterprises",
+      "trade_name": "Ramírez Group",
+      "address": "Calle La Paz 100"
+    }
+  },
+  {
+    "client_id": 75,
+    "first_name": "Carmen",
+    "last_name": "Sierra",
+    "phone": "944567890",
+    "email": "carmen@email.com",
+    "registration_date": "2023-02-17",
+    "dni": "23456789",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 76,
+    "first_name": "Miguel",
+    "last_name": "Mendoza",
+    "phone": "928345678",
+    "email": "miguel@email.com",
+    "registration_date": "2022-04-30",
+    "dni": "56789012",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 77,
+    "first_name": "Patricia",
+    "last_name": "Fernández",
+    "phone": "962345678",
+    "email": "patricia@email.com",
+    "registration_date": "2023-03-28",
+    "dni": "67890123",
+    "status": "Vigente",
+    "company": {
+      "ruc": "23456789012",
+      "business_name": "Fernández & Co.",
+      "trade_name": "Fernández Solutions",
+      "address": "Av. Los Perales 110"
+    }
+  },
+  {
+    "client_id": 78,
+    "first_name": "Adriana",
+    "last_name": "Sánchez",
+    "phone": "912345678",
+    "email": "adriana@email.com",
+    "registration_date": "2023-06-24",
+    "dni": "78901234",
+    "status": "Inactivo",
+    "company": null
+  },
+  {
+    "client_id": 79,
+    "first_name": "Andrés",
+    "last_name": "García",
+    "phone": "934567890",
+    "email": "andres@email.com",
+    "registration_date": "2023-07-13",
+    "dni": "89012345",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 80,
+    "first_name": "Cristina",
+    "last_name": "Jiménez",
+    "phone": "986543210",
+    "email": "cristina@email.com",
+    "registration_date": "2023-01-09",
+    "dni": "90123456",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 81,
+    "first_name": "Iván",
+    "last_name": "Salazar",
+    "phone": "987654321",
+    "email": "ivan@email.com",
+    "registration_date": "2023-04-01",
+    "dni": "12345678",
+    "status": "Vigente",
+    "company": {
+      "ruc": "45678901234",
+      "business_name": "Salazar Group",
+      "trade_name": "Salazar Ltda.",
+      "address": "Jr. Del Valle 100"
+    }
+  },
+  {
+    "client_id": 82,
+    "first_name": "Mónica",
+    "last_name": "Vega",
+    "phone": "938745621",
+    "email": "monica@email.com",
+    "registration_date": "2022-07-18",
+    "dni": "23456789",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 83,
+    "first_name": "José",
+    "last_name": "Alvarado",
+    "phone": "963258741",
+    "email": "jose@email.com",
+    "registration_date": "2023-02-05",
+    "dni": "67890123",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 84,
+    "first_name": "Eduardo",
+    "last_name": "Ríos",
+    "phone": "920654321",
+    "email": "eduardo@email.com",
+    "registration_date": "2023-11-10",
+    "dni": "89012345",
+    "status": "Deudor",
+    "company": {
+      "ruc": "12345678901",
+      "business_name": "Ríos Corp.",
+      "trade_name": "Ríos Enterprises",
+      "address": "Av. La Victoria 333"
+    }
+  },
+  {
+    "client_id": 85,
+    "first_name": "Verónica",
+    "last_name": "López",
+    "phone": "937654321",
+    "email": "veronica@email.com",
+    "registration_date": "2022-03-12",
+    "dni": "56789012",
+    "status": "Inactivo",
+    "company": null
+  },
+  {
+    "client_id": 86,
+    "first_name": "Carlos",
+    "last_name": "Alvarez",
+    "phone": "945678901",
+    "email": "carlos@email.com",
+    "registration_date": "2023-06-08",
+    "dni": "78901234",
+    "status": "Vigente",
+    "company": {
+      "ruc": "23456789012",
+      "business_name": "Alvarez S.A.",
+      "trade_name": "Alvarez Enterprises",
+      "address": "Av. El Sol 777"
+    }
+  },
+  {
+    "client_id": 87,
+    "first_name": "Ariana",
+    "last_name": "Martínez",
+    "phone": "968754321",
+    "email": "ariana@email.com",
+    "registration_date": "2023-04-11",
+    "dni": "89012345",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 88,
+    "first_name": "Ricardo",
+    "last_name": "Castillo",
+    "phone": "924567890",
+    "email": "ricardo@email.com",
+    "registration_date": "2021-05-10",
+    "dni": "23456789",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 89,
+    "first_name": "Elena",
+    "last_name": "Hernández",
+    "phone": "987654321",
+    "email": "elena@email.com",
+    "registration_date": "2022-12-15",
+    "dni": "56789012",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 90,
+    "first_name": "Tomás",
+    "last_name": "Gómez",
+    "phone": "931234567",
+    "email": "tomas@email.com",
+    "registration_date": "2023-08-01",
+    "dni": "67890123",
+    "status": "Vigente",
+    "company": {
+      "ruc": "23456789012",
+      "business_name": "Gómez Import S.A.",
+      "trade_name": "Gómez Trade",
+      "address": "Calle El Sol 350"
+    }
+  },
+  {
+    "client_id": 91,
+    "first_name": "Margarita",
+    "last_name": "Serrano",
+    "phone": "945678901",
+    "email": "margarita@email.com",
+    "registration_date": "2023-01-10",
+    "dni": "78901234",
+    "status": "Inactivo",
+    "company": null
+  },
+  {
+    "client_id": 92,
+    "first_name": "Felipe",
+    "last_name": "López",
+    "phone": "931234567",
+    "email": "felipe@email.com",
+    "registration_date": "2021-07-20",
+    "dni": "89012345",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 93,
+    "first_name": "Rosa",
+    "last_name": "Pérez",
+    "phone": "938745621",
+    "email": "rosa@email.com",
+    "registration_date": "2023-11-06",
+    "dni": "12345678",
+    "status": "Vigente",
+    "company": {
+      "ruc": "34567890123",
+      "business_name": "Pérez S.A.",
+      "trade_name": "Pérez Corp.",
+      "address": "Av. Libertador 900"
+    }
+  },
+  {
+    "client_id": 94,
+    "first_name": "Ignacio",
+    "last_name": "Hernández",
+    "phone": "967543210",
+    "email": "ignacio@email.com",
+    "registration_date": "2023-09-29",
+    "dni": "23456789",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 95,
+    "first_name": "Vanessa",
+    "last_name": "Sánchez",
+    "phone": "920654321",
+    "email": "vanessa@email.com",
+    "registration_date": "2022-10-14",
+    "dni": "67890123",
+    "status": "Vigente",
+    "company": {
+      "ruc": "23456789012",
+      "business_name": "Sánchez Inc.",
+      "trade_name": "Sánchez Group",
+      "address": "Calle de la Paz 12"
+    }
+  },
+  {
+    "client_id": 96,
+    "first_name": "Antonio",
+    "last_name": "Serrano",
+    "phone": "987654321",
+    "email": "antonio@email.com",
+    "registration_date": "2023-02-19",
+    "dni": "78901234",
+    "status": "Inactivo",
+    "company": null
+  },
+  {
+    "client_id": 97,
+    "first_name": "Raquel",
+    "last_name": "Moreno",
+    "phone": "960123456",
+    "email": "raquel@email.com",
+    "registration_date": "2023-07-21",
+    "dni": "23456789",
+    "status": "Deudor",
+    "company": null
+  },
+  {
+    "client_id": 98,
+    "first_name": "Elena",
+    "last_name": "Morales",
+    "phone": "926345678",
+    "email": "elena@email.com",
+    "registration_date": "2023-09-03",
+    "dni": "34567890",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 99,
+    "first_name": "Carlos",
+    "last_name": "Ríos",
+    "phone": "938745621",
+    "email": "carlos@email.com",
+    "registration_date": "2023-01-15",
+    "dni": "56789012",
+    "status": "Vigente",
+    "company": null
+  },
+  {
+    "client_id": 100,
+    "first_name": "Luz",
+    "last_name": "Salazar",
+    "phone": "920654321",
+    "email": "luz@email.com",
+    "registration_date": "2022-12-06",
+    "dni": "67890123",
+    "status": "Vigente",
+    "company": {
+      "ruc": "12345678901",
+      "business_name": "Salazar Ltda.",
+      "trade_name": "Salazar Solutions",
+      "address": "Jr. Las Palmas 450"
+    }
+  }
+]
