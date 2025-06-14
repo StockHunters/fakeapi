@@ -1,12 +1,12 @@
 [
-  {"adjustment_id": "ADJ001", "product_id": "PROD001", "location_id": "LOC001", "quantity": 10, "reason": "Stock replenishment", "user_id": "USR002", "adjustment_date": "2025-06-13", "created_at": "2025-06-13T11:30:00-05:00"},
-  {"adjustment_id": "ADJ002", "product_id": "PROD002", "location_id": "LOC003", "quantity": 15, "reason": "Stock correction", "user_id": "USR004", "adjustment_date": "2025-06-12", "created_at": "2025-06-12T11:35:00-05:00"},
-  {"adjustment_id": "ADJ003", "product_id": "PROD003", "location_id": "LOC005", "quantity": 5, "reason": "Damage", "user_id": "USR006", "adjustment_date": "2025-06-11", "created_at": "2025-06-11T11:40:00-05:00"},
-  {"adjustment_id": "ADJ004", "product_id": "PROD004", "location_id": "LOC007", "quantity": 20, "reason": "Overstock", "user_id": "USR008", "adjustment_date": "2025-06-10", "created_at": "2025-06-10T11:45:00-05:00"},
-  {"adjustment_id": "ADJ005", "product_id": "PROD005", "location_id": "LOC009", "quantity": 8, "reason": "Theft", "user_id": "USR010", "adjustment_date": "2025-06-09", "created_at": "2025-06-09T11:50:00-05:00"},
-  {"adjustment_id": "ADJ006", "product_id": "PROD006", "location_id": "LOC002", "quantity": 25, "reason": "Replenishment", "user_id": "USR002", "adjustment_date": "2025-06-08", "created_at": "2025-06-08T11:55:00-05:00"},
-  {"adjustment_id": "ADJ007", "product_id": "PROD007", "location_id": "LOC004", "quantity": 12, "reason": "Correction", "user_id": "USR004", "adjustment_date": "2025-06-07", "created_at": "2025-06-07T12:00:00-05:00"},
-  {"adjustment_id": "ADJ008", "product_id": "PROD008", "location_id": "LOC006", "quantity": 30, "reason": "Overstock", "user_id": "USR006", "adjustment_date": "2025-06-06", "created_at": "2025-06-06T12:05:00-05:00"},
-  {"adjustment_id": "ADJ009", "product_id": "PROD009", "location_id": "LOC008", "quantity": 6, "reason": "Damage", "user_id": "USR008", "adjustment_date": "2025-06-05", "created_at": "2025-06-05T12:10:00-05:00"},
-  {"adjustment_id": "ADJ010", "product_id": "PROD010", "location_id": "LOC010", "quantity": 10, "reason": "Replenishment", "user_id": "USR010", "adjustment_date": "2025-06-04", "created_at": "2025-06-04T12:15:00-05:00"}
+  {"adjustment_id": "ADJ001", "product_id": "PROD001", "location_id": "LOC001", "quantity": 10, "reason": "Stock replenishment", "id": "USR002", "adjustment_date": "2025-06-13", "created_at": "2025-06-13T11:30:00-05:00"},
+  {"adjustment_id": "ADJ002", "product_id": "PROD002", "location_id": "LOC003", "quantity": 15, "reason": "Stock correction", "id": "USR004", "adjustment_date": "2025-06-12", "created_at": "2025-06-12T11:35:00-05:00"},
+  {"adjustment_id": "ADJ003", "product_id": "PROD003", "location_id": "LOC005", "quantity": 5, "reason": "Damage", "id": "USR006", "adjustment_date": "2025-06-11", "created_at": "2025-06-11T11:40:00-05:00"},
+  {"adjustment_id": "ADJ004", "product_id": "PROD004", "location_id": "LOC007", "quantity": 20, "reason": "Overstock", "id": "USR008", "adjustment_date": "2025-06-10", "created_at": "2025-06-10T11:45:00-05:00"},
+  {"adjustment_id": "ADJ005", "product_id": "PROD005", "location_id": "LOC009", "quantity": 8, "reason": "Theft", "id": "USR010", "adjustment_date": "2025-06-09", "created_at": "2025-06-09T11:50:00-05:00"},
+  {"adjustment_id": "ADJ006", "product_id": "PROD006", "location_id": "LOC002", "quantity": 25, "reason": "Replenishment", "id": "USR002", "adjustment_date": "2025-06-08", "created_at": "2025-06-08T11:55:00-05:00"},
+  {"adjustment_id": "ADJ007", "product_id": "PROD007", "location_id": "LOC004", "quantity": 12, "reason": "Correction", "id": "USR004", "adjustment_date": "2025-06-07", "created_at": "2025-06-07T12:00:00-05:00"},
+  {"adjustment_id": "ADJ008", "product_id": "PROD008", "location_id": "LOC006", "quantity": 30, "reason": "Overstock", "id": "USR006", "adjustment_date": "2025-06-06", "created_at": "2025-06-06T12:05:00-05:00"},
+  {"adjustment_id": "ADJ009", "product_id": "PROD009", "location_id": "LOC008", "quantity": 6, "reason": "Damage", "id": "USR008", "adjustment_date": "2025-06-05", "created_at": "2025-06-05T12:10:00-05:00"},
+  {"adjustment_id": "ADJ010", "product_id": "PROD010", "location_id": "LOC010", "quantity": 10, "reason": "Replenishment", "id": "USR010", "adjustment_date": "2025-06-04", "created_at": "2025-06-04T12:15:00-05:00"}
 ]
