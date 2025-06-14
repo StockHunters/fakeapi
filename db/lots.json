@@ -1,0 +1,12 @@
+[
+  {"lot_id": "LOT001", "product_id": "PROD001", "purchase_id": "PUR001", "lot_number": "LOT20250613A", "purchase_date": "2025-06-12", "expiration_date": "2026-06-12", "created_at": "2025-06-12T15:00:00-05:00"},
+  {"lot_id": "LOT002", "product_id": "PROD002", "purchase_id": "PUR002", "lot_number": "LOT20250612B", "purchase_date": "2025-06-11", "expiration_date": "2026-06-11", "created_at": "2025-06-11T15:05:00-05:00"},
+  {"lot_id": "LOT003", "product_id": "PROD003", "purchase_id": "PUR003", "lot_number": "LOT20250611C", "purchase_date": "2025-06-10", "expiration_date": "2026-06-10", "created_at": "2025-06-10T15:10:00-05:00"},
+  {"lot_id": "LOT004", "product_id": "PROD004", "purchase_id": "PUR004", "lot_number": "LOT20250610D", "purchase_date": "2025-06-09", "expiration_date": "2026-06-09", "created_at": "2025-06-09T15:15:00-05:00"},
+  {"lot_id": "LOT005", "product_id": "PROD005", "purchase_id": "PUR005", "lot_number": "LOT20250609E", "purchase_date": "2025-06-08", "expiration_date": "2026-06-08", "created_at": "2025-06-08T15:20:00-05:00"},
+  {"lot_id": "LOT006", "product_id": "PROD006", "purchase_id": "PUR006", "lot_number": "LOT20250608F", "purchase_date": "2025-06-07", "expiration_date": "2026-06-07", "created_at": "2025-06-07T15:25:00-05:00"},
+  {"lot_id": "LOT007", "product_id": "PROD007", "purchase_id": "PUR007", "lot_number": "LOT20250607G", "purchase_date": "2025-06-06", "expiration_date": "2026-06-06", "created_at": "2025-06-06T15:30:00-05:00"},
+  {"lot_id": "LOT008", "product_id": "PROD008", "purchase_id": "PUR008", "lot_number": "LOT20250606H", "purchase_date": "2025-06-05", "expiration_date": "2026-06-05", "created_at": "2025-06-05T15:35:00-05:00"},
+  {"lot_id": "LOT009", "product_id": "PROD009", "purchase_id": "PUR009", "lot_number": "LOT20250605I", "purchase_date": "2025-06-04", "expiration_date": "2026-06-04", "created_at": "2025-06-04T15:40:00-05:00"},
+  {"lot_id": "LOT010", "product_id": "PROD010", "purchase_id": "PUR010", "lot_number": "LOT20250604J", "purchase_date": "2025-06-03", "expiration_date": "2026-06-03", "created_at": "2025-06-03T15:45:00-05:00"}
+]

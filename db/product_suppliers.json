@@ -1,0 +1,12 @@
+[
+  {"product_id": "PROD001", "supplier_id": "SUP001", "supply_price": 500.00, "created_at": "2025-06-03T09:30:00-05:00"},
+  {"product_id": "PROD002", "supplier_id": "SUP002", "supply_price": 15.00, "created_at": "2025-06-03T09:35:00-05:00"},
+  {"product_id": "PROD003", "supplier_id": "SUP003", "supply_price": 250.00, "created_at": "2025-06-03T09:40:00-05:00"},
+  {"product_id": "PROD004", "supplier_id": "SUP004", "supply_price": 12.00, "created_at": "2025-06-03T09:45:00-05:00"},
+  {"product_id": "PROD005", "supplier_id": "SUP005", "supply_price": 25.00, "created_at": "2025-06-03T09:50:00-05:00"},
+  {"product_id": "PROD006", "supplier_id": "SUP006", "supply_price": 7.50, "created_at": "2025-06-03T09:55:00-05:00"},
+  {"product_id": "PROD007", "supplier_id": "SUP007", "supply_price": 10.00, "created_at": "2025-06-03T10:00:00-05:00"},
+  {"product_id": "PROD008", "supplier_id": "SUP008", "supply_price": 7.00, "created_at": "2025-06-03T10:05:00-05:00"},
+  {"product_id": "PROD009", "supplier_id": "SUP009", "supply_price": 20.00, "created_at": "2025-06-03T10:10:00-05:00"},
+  {"product_id": "PROD010", "supplier_id": "SUP010", "supply_price": 15.00, "created_at": "2025-06-03T10:15:00-05:00"}
+]
