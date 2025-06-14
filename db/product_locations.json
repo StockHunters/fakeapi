@@ -1,12 +1,12 @@
 [
-  {"product_id": "PROD001", "location_id": "LOC001", "stock": 100, "updated_at": "2025-06-14T00:00:00-05:00"},
-  {"product_id": "PROD002", "location_id": "LOC003", "stock": 75, "updated_at": "2025-06-14T00:01:00-05:00"},
-  {"product_id": "PROD003", "location_id": "LOC005", "stock": 50, "updated_at": "2025-06-14T00:02:00-05:00"},
-  {"product_id": "PROD004", "location_id": "LOC007", "stock": 120, "updated_at": "2025-06-14T00:03:00-05:00"},
-  {"product_id": "PROD005", "location_id": "LOC009", "stock": 80, "updated_at": "2025-06-14T00:04:00-05:00"},
-  {"product_id": "PROD006", "location_id": "LOC002", "stock": 60, "updated_at": "2025-06-14T00:05:00-05:00"},
-  {"product_id": "PROD007", "location_id": "LOC004", "stock": 90, "updated_at": "2025-06-14T00:06:00-05:00"},
-  {"product_id": "PROD008", "location_id": "LOC006", "stock": 110, "updated_at": "2025-06-14T00:07:00-05:00"},
-  {"product_id": "PROD009", "location_id": "LOC008", "stock": 70, "updated_at": "2025-06-14T00:08:00-05:00"},
-  {"product_id": "PROD010", "location_id": "LOC010", "stock": 85, "updated_at": "2025-06-14T00:09:00-05:00"}
+  {"id": "ENH001","product_id": "PROD001", "location_id": "LOC001", "stock": 100, "updated_at": "2025-06-14T00:00:00-05:00"},
+  {"id": "ENH002","product_id": "PROD002", "location_id": "LOC003", "stock": 75, "updated_at": "2025-06-14T00:01:00-05:00"},
+  {"id": "ENH003","product_id": "PROD003", "location_id": "LOC005", "stock": 50, "updated_at": "2025-06-14T00:02:00-05:00"},
+  {"id": "ENH004","product_id": "PROD004", "location_id": "LOC007", "stock": 120, "updated_at": "2025-06-14T00:03:00-05:00"},
+  {"id": "ENH005","product_id": "PROD005", "location_id": "LOC009", "stock": 80, "updated_at": "2025-06-14T00:04:00-05:00"},
+  {"id": "ENH006","product_id": "PROD006", "location_id": "LOC002", "stock": 60, "updated_at": "2025-06-14T00:05:00-05:00"},
+  {"id": "ENH007","product_id": "PROD007", "location_id": "LOC004", "stock": 90, "updated_at": "2025-06-14T00:06:00-05:00"},
+  {"id": "ENH008","product_id": "PROD008", "location_id": "LOC006", "stock": 110, "updated_at": "2025-06-14T00:07:00-05:00"},
+  {"id": "ENH009","product_id": "PROD009", "location_id": "LOC008", "stock": 70, "updated_at": "2025-06-14T00:08:00-05:00"},
+  {"id": "ENH010","product_id": "PROD010", "location_id": "LOC010", "stock": 85, "updated_at": "2025-06-14T00:09:00-05:00"}
 ]
