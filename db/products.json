@@ -1,12 +1,12 @@
 [
-  {"product_id": "PROD001", "name": "Smartphone X", "image_url": "http://example.com/smartphone_x.jpg", "category_id": "CAT001", "created_at": "2025-06-03T09:00:00-05:00", "updated_at": "2025-06-13T23:20:00-05:00"},
-  {"product_id": "PROD002", "name": "T-Shirt", "image_url": "http://example.com/tshirt.jpg", "category_id": "CAT002", "created_at": "2025-06-03T09:05:00-05:00", "updated_at": "2025-06-13T23:21:00-05:00"},
-  {"product_id": "PROD003", "name": "Sofa", "image_url": "http://example.com/sofa.jpg", "category_id": "CAT003", "created_at": "2025-06-03T09:10:00-05:00", "updated_at": "2025-06-13T23:22:00-05:00"},
-  {"product_id": "PROD004", "name": "Novel", "image_url": "http://example.com/novel.jpg", "category_id": "CAT004", "created_at": "2025-06-03T09:15:00-05:00", "updated_at": "2025-06-13T23:23:00-05:00"},
-  {"product_id": "PROD005", "name": "Soccer Ball", "image_url": "http://example.com/soccerball.jpg", "category_id": "CAT005", "created_at": "2025-06-03T09:20:00-05:00", "updated_at": "2025-06-13T23:24:00-05:00"},
-  {"product_id": "PROD006", "name": "Toy Car", "image_url": "http://example.com/toycar.jpg", "category_id": "CAT006", "created_at": "2025-06-03T09:25:00-05:00", "updated_at": "2025-06-13T23:25:00-05:00"},
-  {"product_id": "PROD007", "name": "Lipstick", "image_url": "http://example.com/lipstick.jpg", "category_id": "CAT007", "created_at": "2025-06-03T09:30:00-05:00", "updated_at": "2025-06-13T23:26:00-05:00"},
-  {"product_id": "PROD008", "name": "Coffee", "image_url": "http://example.com/coffee.jpg", "category_id": "CAT008", "created_at": "2025-06-03T09:35:00-05:00", "updated_at": "2025-06-13T23:27:00-05:00"},
-  {"product_id": "PROD009", "name": "Hammer", "image_url": "http://example.com/hammer.jpg", "category_id": "CAT009", "created_at": "2025-06-03T09:40:00-05:00", "updated_at": "2025-06-13T23:28:00-05:00"},
-  {"product_id": "PROD010", "name": "Vitamins", "image_url": "http://example.com/vitamins.jpg", "category_id": "CAT010", "created_at": "2025-06-03T09:45:00-05:00", "updated_at": "2025-06-13T23:29:00-05:00"}
+  {"id": "PROD001", "name": "Smartphone X", "image_url": "http://example.com/smartphone_x.jpg", "category_id": "CAT001", "created_at": "2025-06-03T09:00:00-05:00", "updated_at": "2025-06-13T23:20:00-05:00"},
+  {"id": "PROD002", "name": "T-Shirt", "image_url": "http://example.com/tshirt.jpg", "category_id": "CAT002", "created_at": "2025-06-03T09:05:00-05:00", "updated_at": "2025-06-13T23:21:00-05:00"},
+  {"id": "PROD003", "name": "Sofa", "image_url": "http://example.com/sofa.jpg", "category_id": "CAT003", "created_at": "2025-06-03T09:10:00-05:00", "updated_at": "2025-06-13T23:22:00-05:00"},
+  {"id": "PROD004", "name": "Novel", "image_url": "http://example.com/novel.jpg", "category_id": "CAT004", "created_at": "2025-06-03T09:15:00-05:00", "updated_at": "2025-06-13T23:23:00-05:00"},
+  {"id": "PROD005", "name": "Soccer Ball", "image_url": "http://example.com/soccerball.jpg", "category_id": "CAT005", "created_at": "2025-06-03T09:20:00-05:00", "updated_at": "2025-06-13T23:24:00-05:00"},
+  {"id": "PROD006", "name": "Toy Car", "image_url": "http://example.com/toycar.jpg", "category_id": "CAT006", "created_at": "2025-06-03T09:25:00-05:00", "updated_at": "2025-06-13T23:25:00-05:00"},
+  {"id": "PROD007", "name": "Lipstick", "image_url": "http://example.com/lipstick.jpg", "category_id": "CAT007", "created_at": "2025-06-03T09:30:00-05:00", "updated_at": "2025-06-13T23:26:00-05:00"},
+  {"id": "PROD008", "name": "Coffee", "image_url": "http://example.com/coffee.jpg", "category_id": "CAT008", "created_at": "2025-06-03T09:35:00-05:00", "updated_at": "2025-06-13T23:27:00-05:00"},
+  {"id": "PROD009", "name": "Hammer", "image_url": "http://example.com/hammer.jpg", "category_id": "CAT009", "created_at": "2025-06-03T09:40:00-05:00", "updated_at": "2025-06-13T23:28:00-05:00"},
+  {"id": "PROD010", "name": "Vitamins", "image_url": "http://example.com/vitamins.jpg", "category_id": "CAT010", "created_at": "2025-06-03T09:45:00-05:00", "updated_at": "2025-06-13T23:29:00-05:00"}
 ]

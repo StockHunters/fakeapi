@@ -1,12 +1,12 @@
 [
-  {"category_id": "CAT001", "name": "Electronics", "description": "Electronic devices", "created_at": "2025-06-03T08:00:00-05:00"},
-  {"category_id": "CAT002", "name": "Clothing", "description": "Apparel and accessories", "created_at": "2025-06-03T08:05:00-05:00"},
-  {"category_id": "CAT003", "name": "Furniture", "description": "Home furniture", "created_at": "2025-06-03T08:10:00-05:00"},
-  {"category_id": "CAT004", "name": "Books", "description": "Books and literature", "created_at": "2025-06-03T08:15:00-05:00"},
-  {"category_id": "CAT005", "name": "Sports", "description": "Sports equipment", "created_at": "2025-06-03T08:20:00-05:00"},
-  {"category_id": "CAT006", "name": "Toys", "description": "Toys and games", "created_at": "2025-06-03T08:25:00-05:00"},
-  {"category_id": "CAT007", "name": "Beauty", "description": "Beauty products", "created_at": "2025-06-03T08:30:00-05:00"},
-  {"category_id": "CAT008", "name": "Food", "description": "Food and beverages", "created_at": "2025-06-03T08:35:00-05:00"},
-  {"category_id": "CAT009", "name": "Tools", "description": "Tools and hardware", "created_at": "2025-06-03T08:40:00-05:00"},
-  {"category_id": "CAT010", "name": "Health", "description": "Health and wellness", "created_at": "2025-06-03T08:45:00-05:00"}
+  {"id": "CAT001", "name": "Electronics", "description": "Electronic devices", "created_at": "2025-06-03T08:00:00-05:00"},
+  {"id": "CAT002", "name": "Clothing", "description": "Apparel and accessories", "created_at": "2025-06-03T08:05:00-05:00"},
+  {"id": "CAT003", "name": "Furniture", "description": "Home furniture", "created_at": "2025-06-03T08:10:00-05:00"},
+  {"id": "CAT004", "name": "Books", "description": "Books and literature", "created_at": "2025-06-03T08:15:00-05:00"},
+  {"id": "CAT005", "name": "Sports", "description": "Sports equipment", "created_at": "2025-06-03T08:20:00-05:00"},
+  {"id": "CAT006", "name": "Toys", "description": "Toys and games", "created_at": "2025-06-03T08:25:00-05:00"},
+  {"id": "CAT007", "name": "Beauty", "description": "Beauty products", "created_at": "2025-06-03T08:30:00-05:00"},
+  {"id": "CAT008", "name": "Food", "description": "Food and beverages", "created_at": "2025-06-03T08:35:00-05:00"},
+  {"id": "CAT009", "name": "Tools", "description": "Tools and hardware", "created_at": "2025-06-03T08:40:00-05:00"},
+  {"id": "CAT010", "name": "Health", "description": "Health and wellness", "created_at": "2025-06-03T08:45:00-05:00"}
 ]
