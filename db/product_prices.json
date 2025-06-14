@@ -1,0 +1,12 @@
+[
+    {"price_id": "PRI001", "product_id": "PROD001", "price": 599.99, "discount": 50.00, "effective_date": "2025-06-13", "created_at": "2025-06-03T10:00:00-05:00", "updated_at": "2025-06-13T23:30:00-05:00"},
+    {"price_id": "PRI002", "product_id": "PROD002", "price": 19.99, "discount": 2.00, "effective_date": "2025-06-13", "created_at": "2025-06-03T10:05:00-05:00", "updated_at": "2025-06-13T23:31:00-05:00"},
+    {"price_id": "PRI003", "product_id": "PROD003", "price": 299.99, "discount": 30.00, "effective_date": "2025-06-13", "created_at": "2025-06-03T10:10:00-05:00", "updated_at": "2025-06-13T23:32:00-05:00"},
+    {"price_id": "PRI004", "product_id": "PROD004", "price": 14.99, "discount": 1.50, "effective_date": "2025-06-13", "created_at": "2025-06-03T10:15:00-05:00", "updated_at": "2025-06-13T23:33:00-05:00"},
+    {"price_id": "PRI005", "product_id": "PROD005", "price": 29.99, "discount": 3.00, "effective_date": "2025-06-13", "created_at": "2025-06-03T10:20:00-05:00", "updated_at": "2025-06-13T23:34:00-05:00"},
+    {"price_id": "PRI006", "product_id": "PROD006", "price": 9.99, "discount": 1.00, "effective_date": "2025-06-13", "created_at": "2025-06-03T10:25:00-05:00", "updated_at": "2025-06-13T23:35:00-05:00"},
+    {"price_id": "PRI007", "product_id": "PROD007", "price": 12.99, "discount": 1.20, "effective_date": "2025-06-13", "created_at": "2025-06-03T10:30:00-05:00", "updated_at": "2025-06-13T23:36:00-05:00"},
+    {"price_id": "PRI008", "product_id": "PROD008", "price": 8.99, "discount": 0.90, "effective_date": "2025-06-13", "created_at": "2025-06-03T10:35:00-05:00", "updated_at": "2025-06-13T23:37:00-05:00"},
+    {"price_id": "PRI009", "product_id": "PROD009", "price": 24.99, "discount": 2.50, "effective_date": "2025-06-13", "created_at": "2025-06-03T10:40:00-05:00", "updated_at": "2025-06-13T23:38:00-05:00"},
+    {"price_id": "PRI010", "product_id": "PROD010", "price": 19.99, "discount": 2.00, "effective_date": "2025-06-13", "created_at": "2025-06-03T10:45:00-05:00", "updated_at": "2025-06-13T23:39:00-05:00"}
+  ]
