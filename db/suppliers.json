@@ -1,0 +1,12 @@
+[
+{"id": "SUP001", "name": "TechGlobal", "contact_email": "contact@techglobal.com", "phone": "+1-555-111-2222", "address": "100 Tech Blvd, Silicon Valley, CA", "created_at": "2025-06-01T08:00:00-05:00", "updated_at": "2025-06-15T23:00:00-05:00"},
+{"id": "SUP002", "name": "FashionHub", "contact_email": "contact@fashionhub.com", "phone": "+1-555-222-3333", "address": "200 Style St, New York, NY", "created_at": "2025-06-02T09:00:00-05:00", "updated_at": "2025-06-15T23:01:00-05:00"},
+{"id": "SUP003", "name": "HomeFurnish", "contact_email": "contact@homefurnish.com", "phone": "+1-555-333-4444", "address": "300 Furniture Rd, Chicago, IL", "created_at": "2025-06-03T10:00:00-05:00", "updated_at": "2025-06-15T23:02:00-05:00"},
+{"id": "SUP004", "name": "BookWorld", "contact_email": "contact@bookworld.com", "phone": "+1-555-444-5555", "address": "400 Book Ave, Boston, MA", "created_at": "2025-06-04T11:00:00-05:00", "updated_at": "2025-06-15T23:03:00-05:00"},
+{"id": "SUP005", "name": "SportGear", "contact_email": "contact@sportgear.com", "phone": "+1-555-555-6666", "address": "500 Sport Ln, Los Angeles, CA", "created_at": "2025-06-05T12:00:00-05:00", "updated_at": "2025-06-15T23:04:00-05:00"},
+{"id": "SUP006", "name": "ToyLand", "contact_email": "contact@toyland.com", "phone": "+1-555-666-7777", "address": "600 Toy St, Seattle, WA", "created_at": "2025-06-06T13:00:00-05:00", "updated_at": "2025-06-15T23:05:00-05:00"},
+{"id": "SUP007", "name": "BeautyPro", "contact_email": "contact@beautypro.com", "phone": "+1-555-777-8888", "address": "700 Beauty Rd, Miami, FL", "created_at": "2025-06-07T14:00:00-05:00", "updated_at": "2025-06-15T23:06:00-05:00"},
+{"id": "SUP008", "name": "FoodMart", "contact_email": "contact@foodmart.com", "phone": "+1-555-888-9999", "address": "800 Food Ave, Denver, CO", "created_at": "2025-06-08T15:00:00-05:00", "updated_at": "2025-06-15T23:07:00-05:00"},
+{"id": "SUP009", "name": "ToolMaster", "contact_email": "contact@toolmaster.com", "phone": "+1-555-999-0000", "address": "900 Tool St, Phoenix, AZ", "created_at": "2025-06-09T16:00:00-05:00", "updated_at": "2025-06-15T23:08:00-05:00"},
+{"id": "SUP010", "name": "HealthPlus", "contact_email": "contact@healthplus.com", "phone": "+1-555-000-1111", "address": "1000 Health Rd, Portland, OR", "created_at": "2025-06-10T17:00:00-05:00", "updated_at": "2025-06-15T23:09:00-05:00"}
+]

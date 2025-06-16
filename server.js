@@ -24,6 +24,8 @@ const purchase_orders = JSON.parse(fs.readFileSync("./db/purchase_orders.json"))
 const purchases = JSON.parse(fs.readFileSync("./db/purchases.json"));
 const reports = JSON.parse(fs.readFileSync("./db/reports.json"));
 const users = JSON.parse(fs.readFileSync("./db/users.json"));
+const audit_logs = JSON.parse(fs.readFileSync("./db/audit_logs.json"));
+const suppliers = JSON.parse(fs.readFileSync("./db/suppliers.json"));
 
 const dbData = {
   clients,
@@ -44,6 +46,8 @@ const dbData = {
   purchases,
   reports,
   users,
+  audit_logs,
+  suppliers,
 };
 
 const router = jsonServer.router(dbData);

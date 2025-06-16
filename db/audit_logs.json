@@ -1,0 +1,12 @@
+[
+  {"id": "AUD001", "user_id": "USR001", "action_type": "create", "description": "Created user USR003", "action_date": "2025-06-15T22:00:00-05:00", "related_id": "USR003", "created_at": "2025-06-15T22:00:00-05:00"},
+  {"id": "AUD002", "user_id": "USR002", "action_type": "update", "description": "Updated product PROD001 price", "action_date": "2025-06-15T22:05:00-05:00", "related_id": "PROD001", "created_at": "2025-06-15T22:05:00-05:00"},
+  {"id": "AUD003", "user_id": "USR003", "action_type": "create", "description": "Created order ORD001", "action_date": "2025-06-15T22:10:00-05:00", "related_id": "ORD001", "created_at": "2025-06-15T22:10:00-05:00"},
+  {"id": "AUD004", "user_id": "USR004", "action_type": "delete", "description": "Deleted location LOC002", "action_date": "2025-06-15T22:15:00-05:00", "related_id": "LOC002", "created_at": "2025-06-15T22:15:00-05:00"},
+  {"id": "AUD005", "user_id": "USR005", "action_type": "create", "description": "Created sale SAL001", "action_date": "2025-06-15T22:20:00-05:00", "related_id": "SAL001", "created_at": "2025-06-15T22:20:00-05:00"},
+  {"id": "AUD006", "user_id": "USR006", "action_type": "update", "description": "Updated inventory for PROD003", "action_date": "2025-06-15T22:25:00-05:00", "related_id": "PROD003", "created_at": "2025-06-15T22:25:00-05:00"},
+  {"id": "AUD007", "user_id": "USR007", "action_type": "create", "description": "Created report REP001", "action_date": "2025-06-15T22:30:00-05:00", "related_id": "REP001", "created_at": "2025-06-15T22:30:00-05:00"},
+  {"id": "AUD008", "user_id": "USR008", "action_type": "delete", "description": "Deleted purchase PUR002", "action_date": "2025-06-15T22:35:00-05:00", "related_id": "PUR002", "created_at": "2025-06-15T22:35:00-05:00"},
+  {"id": "AUD009", "user_id": "USR009", "action_type": "update", "description": "Updated client CLI001 details", "action_date": "2025-06-15T22:40:00-05:00", "related_id": "CLI001", "created_at": "2025-06-15T22:40:00-05:00"},
+  {"id": "AUD010", "user_id": "USR010", "action_type": "create", "description": "Created adjustment ADJ001", "action_date": "2025-06-15T22:45:00-05:00", "related_id": "ADJ001", "created_at": "2025-06-15T22:45:00-05:00"}
+]
