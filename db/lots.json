@@ -1,6 +1,6 @@
 [
   {"id": "LOT001", "product_id": "PROD001", "purchase_id": "PUR001", "lot_number": "LOT20250613A", "purchase_date": "2025-06-12", "expiration_date": "2026-06-12", "created_at": "2025-06-12T15:00:00-05:00"},
-  {"lot_id": "LOT002", "product_id": "PROD002", "purchase_id": "PUR002", "lot_number": "LOT20250612B", "purchase_date": "2025-06-11", "expiration_date": "2026-06-11", "created_at": "2025-06-11T15:05:00-05:00"},
+  {"id": "LOT002", "product_id": "PROD002", "purchase_id": "PUR002", "lot_number": "LOT20250612B", "purchase_date": "2025-06-11", "expiration_date": "2026-06-11", "created_at": "2025-06-11T15:05:00-05:00"},
   {"id": "LOT003", "product_id": "PROD003", "purchase_id": "PUR003", "lot_number": "LOT20250611C", "purchase_date": "2025-06-10", "expiration_date": "2026-06-10", "created_at": "2025-06-10T15:10:00-05:00"},
   {"id": "LOT004", "product_id": "PROD004", "purchase_id": "PUR004", "lot_number": "LOT20250610D", "purchase_date": "2025-06-09", "expiration_date": "2026-06-09", "created_at": "2025-06-09T15:15:00-05:00"},
   {"id": "LOT005", "product_id": "PROD005", "purchase_id": "PUR005", "lot_number": "LOT20250609E", "purchase_date": "2025-06-08", "expiration_date": "2026-06-08", "created_at": "2025-06-08T15:20:00-05:00"},
