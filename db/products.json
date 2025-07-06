@@ -1,12 +1,162 @@
 [
-  {"id": "PROD001", "name": "Smartphone X", "image_url": "https://media.falabella.com/falabellaPE/127012055_01/w=1500,h=1500,fit=pad", "category_id": "CAT001", "created_at": "2025-06-03T09:00:00-05:00", "updated_at": "2025-06-13T23:20:00-05:00"},
-  {"id": "PROD002", "name": "T-Shirt", "image_url": "https://storeinpe.com/cdn/shop/products/s7-1442610_lifestyle_1024x1024_2x_ebf1bb43-baa1-4366-83aa-2d85a7e2b4dc.webp?v=1741460964", "category_id": "CAT002", "created_at": "2025-06-03T09:05:00-05:00", "updated_at": "2025-06-13T23:21:00-05:00"},
-  {"id": "PROD003", "name": "Sofa", "image_url": "https://cloudfront.dico.com.mx/media/catalog/product/cache/e5313a059d82e47a0dd0c73b13afb6be/s/a/sala-moderna-sofa-gris-uma_sal54622s1-ai-f-01-jpg.jpg", "category_id": "CAT003", "created_at": "2025-06-03T09:10:00-05:00", "updated_at": "2025-06-13T23:22:00-05:00"},
-  {"id": "PROD004", "name": "Novel", "image_url": "http://example.com/novel.jpg", "category_id": "CAT004", "created_at": "2025-06-03T09:15:00-05:00", "updated_at": "2025-06-13T23:23:00-05:00"},
-  {"id": "PROD005", "name": "Soccer Ball", "image_url": "http://example.com/soccerball.jpg", "category_id": "CAT005", "created_at": "2025-06-03T09:20:00-05:00", "updated_at": "2025-06-13T23:24:00-05:00"},
-  {"id": "PROD006", "name": "Toy Car", "image_url": "http://example.com/toycar.jpg", "category_id": "CAT006", "created_at": "2025-06-03T09:25:00-05:00", "updated_at": "2025-06-13T23:25:00-05:00"},
-  {"id": "PROD007", "name": "Lipstick", "image_url": "http://example.com/lipstick.jpg", "category_id": "CAT007", "created_at": "2025-06-03T09:30:00-05:00", "updated_at": "2025-06-13T23:26:00-05:00"},
-  {"id": "PROD008", "name": "Coffee", "image_url": "http://example.com/coffee.jpg", "category_id": "CAT008", "created_at": "2025-06-03T09:35:00-05:00", "updated_at": "2025-06-13T23:27:00-05:00"},
-  {"id": "PROD009", "name": "Hammer", "image_url": "http://example.com/hammer.jpg", "category_id": "CAT009", "created_at": "2025-06-03T09:40:00-05:00", "updated_at": "2025-06-13T23:28:00-05:00"},
-  {"id": "PROD010", "name": "Vitamins" , "image_url": "http://example.com/vitamins.jpg", "category_id": "CAT010", "created_at": "2025-06-03T09:45:00-05:00", "updated_at": "2025-06-13T23:29:00-05:00"}
+  {
+    "id": "PROD001",
+    "name": "Celular Apple",
+    "image_url": "https://media.falabella.com/falabellaPE/127012055_01/w=1500,h=1500,fit=pad",
+    "category_id": "CAT001",
+    "created_at": "2025-06-03T09:00:00-05:00",
+    "updated_at": "2025-06-13T23:20:00-05:00"
+  },
+  {
+    "id": "PROD002",
+    "name": "Audifonos",
+    "image_url": "https://picacia.gt/cdn/shop/files/PAG-720-1.png?v=1744650100",
+    "category_id": "CAT002",
+    "created_at": "2025-06-03T09:05:00-05:00",
+    "updated_at": "2025-06-13T23:21:00-05:00"
+  },
+  {
+    "id": "PROD003",
+    "name": "Teclado",
+    "image_url": "https://www.mmstoreperu.com/cdn/shop/files/TECLADO-REDRAGON-UCALPRO-RGB-K673WB-BLANCO-NEGRO-3_1200x.jpg?v=1720730579",
+    "category_id": "CAT003",
+    "created_at": "2025-06-03T09:10:00-05:00",
+    "updated_at": "2025-06-13T23:22:00-05:00"
+  },
+  {
+    "id": "PROD004",
+    "name": "Dron DJI",
+    "image_url": "https://mundogeo.com/wp-content/uploads/2024/10/22112434/drone-dji-air-3s-lancamento-da-dji.jpg",
+    "category_id": "CAT004",
+    "created_at": "2025-06-03T09:15:00-05:00",
+    "updated_at": "2025-06-13T23:23:00-05:00"
+  },
+  {
+    "id": "PROD005",
+    "name": "TV LG",
+    "image_url": "https://promart.vteximg.com.br/arquivos/ids/7903382-1000-1000/image-e94b7c839a834803be033af229889054.jpg?v=638466561156530000",
+    "category_id": "CAT005",
+    "created_at": "2025-06-03T09:20:00-05:00",
+    "updated_at": "2025-06-13T23:24:00-05:00"
+  },
+  {
+    "id": "PROD006",
+    "name": "Celular Samsung",
+    "image_url": "https://plazavea.vteximg.com.br/arquivos/ids/29182390-418-418/image-06072544a06745399c6bfd85fd089926.jpg",
+    "category_id": "CAT006",
+    "created_at": "2025-06-03T09:25:00-05:00",
+    "updated_at": "2025-06-13T23:25:00-05:00"
+  },
+  {
+    "id": "PROD007",
+    "name": "Mouse",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_701613-MLA45464844877_042021-O-mouse-logitech-g502-hero-16000-dpi-rgb-black-usb.webp",
+    "category_id": "CAT007",
+    "created_at": "2025-06-03T09:30:00-05:00",
+    "updated_at": "2025-06-13T23:26:00-05:00"
+  },
+  {
+    "id": "PROD008",
+    "name": "Reloj Inteligente",
+    "image_url": "https://media.falabella.com/falabellaPE/129157118_01/w=800,h=800,fit=pad",
+    "category_id": "CAT008",
+    "created_at": "2025-06-03T09:35:00-05:00",
+    "updated_at": "2025-06-13T23:27:00-05:00"
+  },
+  {
+    "id": "PROD009",
+    "name": "Mouse Pad",
+    "image_url": "https://cyccomputer.pe/21685-medium_default/mouse-pad-redragon-kunlun-p006-l-speed-negro-880x420x4mm.jpg",
+    "category_id": "CAT009",
+    "created_at": "2025-06-03T09:40:00-05:00",
+    "updated_at": "2025-06-13T23:28:00-05:00"
+  },
+  {
+    "id": "PROD010",
+    "name": "Play Station 5",
+    "image_url": "https://m.media-amazon.com/images/I/71v7RDRYBTL._SL1500_.jpg",
+    "category_id": "CAT010",
+    "created_at": "2025-06-03T09:45:00-05:00",
+    "updated_at": "2025-06-13T23:29:00-05:00"
+  },
+  {
+    "id": "puXm2WK",
+    "name": "Laptop Asus",
+    "image_url": "https://http2.mlstatic.com/D_Q_NP_970667-MLU76255648359_052024-O.webp",
+    "category_id": "Portátiles",
+    "created_at": "2025-07-06T21:42:54.655Z",
+    "updated_at": "2025-07-06T21:42:54.655Z"
+  },
+  {
+    "id": "iLnuXVN",
+    "name": "Monitor Dell",
+    "image_url": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/3278/PMP20000439794/full_image-1.jpeg",
+    "category_id": "Screens",
+    "created_at": "2025-07-06T21:46:24.576Z",
+    "updated_at": "2025-07-06T21:46:24.576Z"
+  },
+  {
+    "id": "lky9nTQ",
+    "name": "Celular Xiaomi",
+    "image_url": "https://www.powerplanetonline.com/cdnassets/xiaomi_redmi_note_14_pro_5g_verde_01_l.jpg",
+    "category_id": "Celulares",
+    "created_at": "2025-07-06T21:47:07.908Z",
+    "updated_at": "2025-07-06T21:47:07.908Z"
+  },
+  {
+    "id": "f2Mfzwq",
+    "name": "Cargador",
+    "image_url": "https://m.media-amazon.com/images/I/61iN5byJrXL._AC_SL1500_.jpg",
+    "category_id": "Complementos",
+    "created_at": "2025-07-06T21:47:55.604Z",
+    "updated_at": "2025-07-06T21:47:55.604Z"
+  },
+  {
+    "id": "bAynn7w",
+    "name": "Parlante JBL",
+    "image_url": "https://oechsle.vteximg.com.br/arquivos/ids/14540070/image-2cc45d7548264486bb17fdd15f55674f.jpg?v=638280184660200000",
+    "category_id": "Accesorios",
+    "created_at": "2025-07-06T21:48:26.039Z",
+    "updated_at": "2025-07-06T21:48:26.039Z"
+  },
+  {
+    "id": "G4QxNxa",
+    "name": "Cámara Cannon",
+    "image_url": "https://filmadorasperu.com/cdn/shop/files/100.jpg?v=1704837933",
+    "category_id": "Camaras",
+    "created_at": "2025-07-06T21:50:25.226Z",
+    "updated_at": "2025-07-06T21:50:25.226Z"
+  },
+  {
+    "id": "GZE83ZV",
+    "name": "Trípode",
+    "image_url": "https://lenz.pe/cdn/shop/files/Tripode-profesional-Weifeng-6663A.jpg?v=1697853659",
+    "category_id": "Accesorios",
+    "created_at": "2025-07-06T21:50:51.840Z",
+    "updated_at": "2025-07-06T21:50:51.840Z"
+  },
+  {
+    "id": "2Hflkei",
+    "name": "Tablet Samsung",
+    "image_url": "https://rymportatiles.com.pe/cdn/shop/files/S9FE-1.png?v=1726871963",
+    "category_id": "Tablets",
+    "created_at": "2025-07-06T21:53:02.316Z",
+    "updated_at": "2025-07-06T21:53:02.316Z"
+  },
+  {
+    "id": "TjYBOPH",
+    "name": "Silla Razer",
+    "image_url": "https://phantom.pe/media/catalog/product/cache/c58c05327f55128aefac5642661cf3d1/s/i/silla_gamer_razer_iskur_v2_verde_1_.jpg",
+    "category_id": "CAT012",
+    "created_at": "2025-07-06T21:54:41.470Z",
+    "updated_at": "2025-07-06T21:54:41.470Z"
+  },
+  {
+    "id": "rDGaJSw",
+    "name": "Xbox",
+    "image_url": "https://i5.walmartimages.com/asr/692b4f9a-36c2-49b3-8ee8-2b7c51504d20.0daff5ea982257b1130c933d87498409.jpeg",
+    "category_id": "consolas",
+    "created_at": "2025-07-06T21:55:20.026Z",
+    "updated_at": "2025-07-06T21:55:20.026Z"
+  }
 ]
